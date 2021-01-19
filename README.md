@@ -64,7 +64,7 @@ The rules are as follows:
 - Components must function as described above
 
 ## Style
-- Keep it simple or be creative be creative! It's up to you. 
+- Keep it simple or be creative! It's up to you. 
 - We have included [Element UI](https://element.eleme.io/#/en-US/component/installation) but you can use any framework (or none at all) you want.
 
 
